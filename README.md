@@ -5,7 +5,7 @@
 
 | Topic      | Link |
 | ---------- | ----------- |
-|   Chapter 1  | [Link](https://hamzaqahoush.github.io/Reading-Notes-401/BigO)|
+|   Chapter 1  | [Link](https://hamzaqahoush.github.io/Google_Data_analytics/Bchapter_1_get_started)|
 
 
 
